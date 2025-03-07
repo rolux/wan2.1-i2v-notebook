@@ -1,4 +1,4 @@
-# wan2.1-itv-notebook
+# wan2.1-i2v-notebook
 
 Colab notebook for Wan2.1 image-to-video. Public domain.
 
